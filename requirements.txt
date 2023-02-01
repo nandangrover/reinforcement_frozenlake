@@ -1,0 +1,8 @@
+numpy
+gym
+imageio
+matplotlib
+keras
+tensorflow
+pygame
+imageio_ffmpeg
