@@ -9,7 +9,7 @@ WUsing OpenAI gym, a FrozenLake v1 environment with a 10*10 board was successful
 
 ## Medium Article
 
-https://medium.com/@nandangrover
+https://medium.com/mlearning-ai/a-deep-dive-into-reinforcement-learning-q-learning-and-deep-q-learning-on-a-10x10-frozenlake-c76d56810a46
 
 ## Running Locally
 
